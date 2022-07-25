@@ -29,7 +29,6 @@ Topics will include:
 ### Built With
 
 * [Python](https://www.python.org/)
-* [MySQL](https://www.mysql.com/)
 * [Anaconda](https://www.anaconda.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
